@@ -1,0 +1,2 @@
+Bioinformatics tools such as BLAST, FASTA, and ClustalW are widely used for sequence alignment, gene prediction, and molecular modeling.
+Machine learning algorithms are increasingly being applied to improve the accuracy of bioinformatics analyses.
