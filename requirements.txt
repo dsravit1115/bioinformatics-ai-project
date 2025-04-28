@@ -1,0 +1,5 @@
+openai
+langchain
+sentence-transformers
+faiss
+python-dotenv
